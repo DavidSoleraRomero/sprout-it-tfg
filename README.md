@@ -6,7 +6,7 @@
 
 ## 📌 Descripción breve
 
-Sprout It es una aplicación móvil que transforma el cuidado de plantas en una experiencia interactiva, combinando:
+Sprout It es una aplicación que transforma el cuidado de plantas en una experiencia interactiva, combinando:
 
 - 📲 **Gestión botánica** (registro de plantas, especies y cuidados)
 - 🎮 **Elementos gamificados** (sistema de niveles con experiencia)
