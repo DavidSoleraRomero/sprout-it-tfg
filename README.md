@@ -52,7 +52,7 @@ A continuación, se listan los enlaces principales asociados al proyecto. Puedes
   [https://balsamiq.com/example/sprout-it](https://balsamiq.com/example/sprout-it)
 
 - 📁 **Archivos descargables de Balsamiq (Google Drive)**  
-  [https://drive.google.com/drive/folders/1jSSBkc7fMor_PphYmIKCauJaa-1RBIKC?usp=drive_link](https://drive.google.com/drive/folders/1jSSBkc7fMor_PphYmIKCauJaa-1RBIKC?usp=drive_link)
+  Realizado; pendiente de poner enlace
 
 - 🎯 **Diseño en Figma (modo solo visualización)**  
   [https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)
@@ -67,7 +67,7 @@ A continuación, se listan los enlaces principales asociados al proyecto. Puedes
 - 📥 **Power BI + CSV (descarga desde Drive)**  
   Incluye el archivo `.pbix` y los CSV exportados desde la app.
 
-  [https://drive.google.com/drive/folders/1w1TMiW7mnVTPoKTLfa7gTduPXaQuMGwQ?usp=drive_link](https://drive.google.com/drive/folders/1w1TMiW7mnVTPoKTLfa7gTduPXaQuMGwQ?usp=drive_link)
+  Realizado; pendiente de poner enlace
 
 ---
 
