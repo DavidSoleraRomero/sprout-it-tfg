@@ -25,24 +25,24 @@ A continuación, se listan los enlaces principales asociados al proyecto. Puedes
 ### 🌍 Aplicación Web
 
 - 🔗 **Demo en Netlify**  
-  `https://example.com/sprout-it-web`
+  `[https://sprout-it.netlify.app](https://sprout-it.netlify.app/)`
 
 - 💻 **Repositorio (Ionic + Angular)**  
-  `https://github.com/usuario/sprout-it-web`
+  `[https://github.com/DavidSoleraRomero/sprout-it](https://github.com/DavidSoleraRomero/sprout-it)`
 
 ---
 
 ### 📱 Aplicación Móvil
 
 - 📱 **Repositorio (Kotlin)**  
-  `https://github.com/usuario/sprout-it-mobile`
+  `[https://github.com/DavidSoleraRomero/sprout-it-android](https://github.com/DavidSoleraRomero/sprout-it-android)`
 
 ---
 
 ### 🧠 Procesamiento de datos
 
 - 🐍 **API en Python para generar CSV a partir de datos de Firebase**  
-  `https://github.com/usuario/sprout-it-csv-api`
+  `[https://github.com/DavidSoleraRomero/sprout-it-pd](https://github.com/DavidSoleraRomero/sprout-it-pd)`
 
 ---
 
@@ -52,13 +52,13 @@ A continuación, se listan los enlaces principales asociados al proyecto. Puedes
   `https://balsamiq.com/example/sprout-it`
 
 - 📁 **Archivos descargables de Balsamiq (Google Drive)**  
-  `https://drive.google.com/example/balsamiq-files`
+  `[https://drive.google.com/drive/folders/1jSSBkc7fMor_PphYmIKCauJaa-1RBIKC?usp=drive_link](https://drive.google.com/drive/folders/1jSSBkc7fMor_PphYmIKCauJaa-1RBIKC?usp=drive_link)`
 
 - 🎯 **Diseño en Figma (modo solo visualización)**  
-  `https://www.figma.com/file/example/figma-visual`
+  `[https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)`
 
 - 🛠️ **Diseño en Figma (modo edición)**  
-  `https://www.figma.com/file/example/figma-editable`
+  `[https://www.figma.com/design/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/design/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)`
 
 ---
 
@@ -67,7 +67,7 @@ A continuación, se listan los enlaces principales asociados al proyecto. Puedes
 - 📥 **Power BI + CSV (descarga desde Drive)**  
   Incluye el archivo `.pbix` y los CSV exportados desde la app.
 
-  `https://drive.google.com/example/powerbi-and-csv`
+  `[https://drive.google.com/drive/folders/1w1TMiW7mnVTPoKTLfa7gTduPXaQuMGwQ?usp=drive_link](https://drive.google.com/drive/folders/1w1TMiW7mnVTPoKTLfa7gTduPXaQuMGwQ?usp=drive_link)`
 
 ---
 
