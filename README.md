@@ -4,6 +4,18 @@
 
 ---
 
+## 🎥 Video Checkpoint (5 minutos)  
+🔗 [Ver en YouTube](https://youtu.be/2HuGz19Bpaw)  
+Resumen del estado actual del proyecto con una demostración práctica. En el video se exponen los principales avances, funcionalidades implementadas y cómo se cumplen los requisitos de prácticamente todas las asignaturas del ciclo.
+
+---
+
+## 📚 Historial de cambios y bibliografía  
+📁 [Acceder a Google Drive](https://docs.google.com/document/d/1duXJVxwfllh2DBYBOJwPx-ZhWH_NcNUKUzaMo3aMl0U/edit?usp=sharing)  
+Contiene documentación histórica, bibliografía y enlaces complementarios.
+
+---
+
 ## 📌 Descripción breve
 
 Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuidado de plantas en una experiencia intuitiva y motivadora. Integra:
@@ -19,8 +31,6 @@ Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuid
 ---
 
 ## 🔗 Enlaces del proyecto
-
-A continuación, se listan los enlaces principales asociados al proyecto. Puedes reemplazar cada URL de ejemplo con los enlaces reales.
 
 ### 🌍 Aplicación Web
 
@@ -52,7 +62,7 @@ A continuación, se listan los enlaces principales asociados al proyecto. Puedes
   [https://balsamiq.com/example/sprout-it](https://balsamiq.com/example/sprout-it)
 
 - 📁 **Archivos descargables de Balsamiq (Google Drive)**  
-  Realizado; pendiente de poner enlace
+  *(Pendiente de añadir enlace)*
 
 - 🎯 **Diseño en Figma (modo solo visualización)**  
   [https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)
@@ -65,16 +75,14 @@ A continuación, se listan los enlaces principales asociados al proyecto. Puedes
 ### 📊 Análisis de datos
 
 - 📥 **Power BI + CSV (descarga desde Drive)**  
-  Incluye el archivo `.pbix` y los CSV exportados desde la app.
-
-  Realizado; pendiente de poner enlace
+  Incluye el archivo `.pbix` y los CSV exportados desde la app.  
+  *(Pendiente de añadir enlace)*
 
 ---
 
-## 🧑‍💻 **Desarrollador Principal**
+## 🧑‍💻 Desarrollador Principal
 
-**David Solera Romero**
-
+**David Solera Romero**  
 *Estudiante de 2º Desarrollo de Aplicaciones Multiplataforma*
 
 🏛️ CPIFP Alan Turing  
@@ -84,4 +92,4 @@ A continuación, se listan los enlaces principales asociados al proyecto. Puedes
 ---
 
 > 🌿 *"Programar es como regar una planta; con paciencia y dedicación, crece algo extraordinario."*  
-> — *Filosofía de desarrollo de **Sprout It***  
+> — *Filosofía de desarrollo de **Sprout It***
