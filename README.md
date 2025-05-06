@@ -40,12 +40,18 @@ Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuid
 - 💻 **Repositorio (Ionic + Angular)**  
   [https://github.com/DavidSoleraRomero/sprout-it](https://github.com/DavidSoleraRomero/sprout-it)
 
+- 🎥 **Video Manual Detallado (Ionic + Angular)**  
+  [Ver video](https://youtu.be/VcPFS6k2OSQ)
+
 ---
 
 ### 📱 Aplicación Móvil
 
 - 📱 **Repositorio (Kotlin)**  
   [https://github.com/DavidSoleraRomero/sprout-it-android](https://github.com/DavidSoleraRomero/sprout-it-android)
+
+- 🎥 **Video Manual Detallado (Kotlin)**  
+  [Ver video](https://youtu.be/GoUTTPHh7dQ)
 
 ---
 
