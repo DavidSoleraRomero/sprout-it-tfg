@@ -34,7 +34,7 @@ Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuid
 
 ### 🌍 Aplicación Web
 
-- 🔗 **Demo en Netlify**  
+- 🔗 **Aplicación desplegada en Netlify (redirige a HOME)**  
   [https://sprout-it.netlify.app](https://sprout-it.netlify.app/)
 
 - 💻 **Repositorio (Ionic + Angular)**  
