@@ -30,9 +30,9 @@ Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuid
 
 ---
 
-## 🔗 Enlaces del proyecto
+## 🔗 **Enlaces del Proyecto**
 
-### 🌍 Aplicación Web
+### 🌍 **Aplicación Web**
 
 - 🔗 **Aplicación desplegada en Netlify (redirige a HOME)**  
   [https://sprout-it.netlify.app](https://sprout-it.netlify.app/)
@@ -42,65 +42,65 @@ Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuid
 
 ---
 
-### 📱 Aplicación Móvil
+### 📱 **Aplicación Móvil**
 
 - 📱 **Repositorio (Kotlin)**  
   [https://github.com/DavidSoleraRomero/sprout-it-android](https://github.com/DavidSoleraRomero/sprout-it-android)
 
 ---
 
-## 📝 Instrucciones Generales
+## 📝 **Instrucciones Generales**
 
 Estas instrucciones aplican tanto a la **aplicación web** como a la **aplicación móvil**. En los videos a continuación se mencionan detalles específicos para cada plataforma:
 
-1. **Registro de Usuario:**  
-   Puedes registrarte en la aplicación, y si eres un *sprouter privilegiado*, tendrás la capacidad de editar y eliminar especies y fertilizantes.
+### ✅ **Registro de Usuario:**
+- Regístrate y si eres un *sprouter privilegiado*, podrás **editar** y **eliminar** especies y fertilizantes.
 
-2. **Iniciar Sesión:**  
-   Puedes iniciar sesión y disfrutar de una función de *autologin* que mantiene tu sesión abierta para facilitar el uso.
+### ✅ **Iniciar Sesión:**
+- Inicia sesión con la opción de **autologin**, para una experiencia continua sin necesidad de reingresar tus credenciales.
 
-3. **Gestión de Plantas:**  
-   Puedes regar tus plantas, visualizarlas, editarlas y eliminarlas según lo desees.
+### 🌱 **Gestión de Plantas:**
+- Puedes **regar**, **visualizar**, **editar** y **eliminar** las plantas en tu colección.
 
-4. **Gestión de Especies:**  
-   Visualiza la ubicación de las especies, edítalas o elimínelas.
+### 🌿 **Gestión de Especies:**
+- Visualiza la ubicación de las especies y tienes la opción de **editar** o **eliminar** según sea necesario.
 
-5. **Gestión de Fertilizantes:**  
-   Puedes visualizar, editar y eliminar los fertilizantes asociados a las plantas.
+### 🌾 **Gestión de Fertilizantes:**
+- Puedes **ver**, **editar** y **eliminar** los fertilizantes asignados a tus plantas.
 
-6. **Perfil de Usuario:**  
-   Modifica tu foto de perfil, nombre, apellido, usuario y consulta tu correo electrónico.
+### 👤 **Perfil de Usuario:**
+- Modifica tu **foto de perfil**, **nombre**, **apellido**, **usuario** y consulta tu **correo electrónico**.
 
 ---
 
-## 🔍 Detalles Específicos
+## 🔍 **Detalles Específicos**
 
 ### 🌍 **Aplicación Web (Ionic + Angular)**
 
-- **Envío de correos:**  
-  Se manda un correo al usuario al registrarse, al iniciar sesión y al intentar un inicio de sesión.
+- 📧 **Envío de Correos:**  
+  Se envía un correo al usuario al **registrarse**, al **iniciar sesión** y al **intentar un inicio de sesión** fallido.
 
-- **IA Generativa:**  
-  Se ha implementado **IA generativa** sobre cada colección (plantas, especies y fertilizantes) para proporcionar descripciones e información más detallada y precisa.
+- 🤖 **IA Generativa:**  
+  **IA generativa** sobre las colecciones de **plantas**, **especies** y **fertilizantes** para ofrecer descripciones personalizadas e información relevante sobre cada uno.
 
-- **Vista 3D de Plantas:**  
-  La aplicación web incluye una vista 3D interactiva de las plantas, mejorando la experiencia visual y de usuario.
+- 🌳 **Vista 3D de Plantas:**  
+  Disfruta de una **vista 3D interactiva** de las plantas para una experiencia más visual y enriquecedora.
 
 ---
 
 ### 📱 **Aplicación Móvil (Kotlin)**
 
-- **Compartir Información:**  
-  En la versión móvil, los usuarios pueden **compartir** información sobre plantas, especies y fertilizantes mediante **Intents**.
+- 🔗 **Compartir Información:**  
+  En la versión móvil, puedes **compartir** información de tus plantas, especies y fertilizantes con otras aplicaciones gracias a los **Intents**.
 
-- **Almacenamiento Local:**  
-  Los datos de la aplicación se pueden **almacenar localmente** en el dispositivo para un acceso rápido y sin conexión.
+- 💾 **Almacenamiento Local:**  
+  La app permite **almacenar localmente** los datos de la aplicación para un acceso rápido, incluso sin conexión a internet.
 
 ---
 
-## 📹 Manual Detallado
+## 📹 **Manual Detallado**
 
-Para más detalles, consulta el **manual completo** en los videos siguientes:
+Para más detalles, consulta el **manual completo** en los siguientes videos:
 
 🎥 **Manual Detallado de la Aplicación Web (Ionic + Angular)**  
 [Ver video](https://youtu.be/VcPFS6k2OSQ)
