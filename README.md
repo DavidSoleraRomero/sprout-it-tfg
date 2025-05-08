@@ -40,9 +40,6 @@ Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuid
 - 💻 **Repositorio (Ionic + Angular)**  
   [https://github.com/DavidSoleraRomero/sprout-it](https://github.com/DavidSoleraRomero/sprout-it)
 
-- 🎥 **Video Manual Detallado (Ionic + Angular)**  
-  [Ver video](https://youtu.be/VcPFS6k2OSQ)
-
 ---
 
 ### 📱 Aplicación Móvil
@@ -50,8 +47,66 @@ Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuid
 - 📱 **Repositorio (Kotlin)**  
   [https://github.com/DavidSoleraRomero/sprout-it-android](https://github.com/DavidSoleraRomero/sprout-it-android)
 
-- 🎥 **Video Manual Detallado (Kotlin)**  
-  [Ver video](https://youtu.be/GoUTTPHh7dQ)
+---
+
+## 📝 Instrucciones Generales
+
+Estas instrucciones aplican tanto a la **aplicación web** como a la **aplicación móvil**. En los videos a continuación se mencionan detalles específicos para cada plataforma:
+
+1. **Registro de Usuario:**  
+   Puedes registrarte en la aplicación, y si eres un *sprouter privilegiado*, tendrás la capacidad de editar y eliminar especies y fertilizantes.
+
+2. **Iniciar Sesión:**  
+   Puedes iniciar sesión y disfrutar de una función de *autologin* que mantiene tu sesión abierta para facilitar el uso.
+
+3. **Gestión de Plantas:**  
+   Puedes regar tus plantas, visualizarlas, editarlas y eliminarlas según lo desees.
+
+4. **Gestión de Especies:**  
+   Visualiza la ubicación de las especies, edítalas o elimínelas.
+
+5. **Gestión de Fertilizantes:**  
+   Puedes visualizar, editar y eliminar los fertilizantes asociados a las plantas.
+
+6. **Perfil de Usuario:**  
+   Modifica tu foto de perfil, nombre, apellido, usuario y consulta tu correo electrónico.
+
+---
+
+## 🔍 Detalles Específicos
+
+### 🌍 **Aplicación Web (Ionic + Angular)**
+
+- **Envío de correos:**  
+  Se manda un correo al usuario al registrarse, al iniciar sesión y al intentar un inicio de sesión.
+
+- **IA Generativa:**  
+  Se ha implementado **IA generativa** sobre cada colección (plantas, especies y fertilizantes) para proporcionar descripciones e información más detallada y precisa.
+
+- **Vista 3D de Plantas:**  
+  La aplicación web incluye una vista 3D interactiva de las plantas, mejorando la experiencia visual y de usuario.
+
+---
+
+### 📱 **Aplicación Móvil (Kotlin)**
+
+- **Compartir Información:**  
+  En la versión móvil, los usuarios pueden **compartir** información sobre plantas, especies y fertilizantes mediante **Intents**.
+
+- **Almacenamiento Local:**  
+  Los datos de la aplicación se pueden **almacenar localmente** en el dispositivo para un acceso rápido y sin conexión.
+
+---
+
+## 📹 Manual Detallado
+
+Para más detalles, consulta el **manual completo** en los videos siguientes:
+
+🎥 **Manual Detallado de la Aplicación Web (Ionic + Angular)**  
+[Ver video](https://youtu.be/VcPFS6k2OSQ)
+
+🎥 **Manual Detallado de la Aplicación Móvil (Kotlin)**  
+[Ver video](https://youtu.be/GoUTTPHh7dQ)
 
 ---
 
