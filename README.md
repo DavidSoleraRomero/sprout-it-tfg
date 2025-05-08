@@ -53,10 +53,10 @@ Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuid
 
 Estas instrucciones aplican tanto a la **aplicación web** como a la **aplicación móvil**. En los videos a continuación se mencionan detalles específicos para cada plataforma:
 
-### ✅ **Registro de Usuario:**
+### ✍️ **Registro de Usuario:**
 - Regístrate y si eres un *sprouter privilegiado*, podrás **editar** y **eliminar** especies y fertilizantes.
 
-### ✅ **Iniciar Sesión:**
+### 🔑 **Iniciar Sesión:**
 - Inicia sesión con la opción de **autologin**, para una experiencia continua sin necesidad de reingresar tus credenciales.
 
 ### 🌱 **Gestión de Plantas:**
@@ -73,28 +73,36 @@ Estas instrucciones aplican tanto a la **aplicación web** como a la **aplicaci�
 
 ---
 
-## 🔍 **Detalles Específicos**
+## 🔍 **Algunos Detalles Específicos**
 
 ### 🌍 **Aplicación Web (Ionic + Angular)**
 
-- 📧 **Envío de Correos:**  
-  Se envía un correo al usuario al **registrarse**, al **iniciar sesión** y al **intentar un inicio de sesión** fallido.
+#### 📧 **Envío de Correos**
+- Se envía un correo de forma automática al usuario en tres situaciones:
+  - **Registrarse**
+  - **Iniciar sesión**
+  - **Intento de inicio de sesión fallido**
 
-- 🤖 **IA Generativa:**  
-  **IA generativa** sobre las colecciones de **plantas**, **especies** y **fertilizantes** para ofrecer descripciones personalizadas e información relevante sobre cada uno.
+#### 🤖 **IA Generativa**
+- **IA generativa** aplicada a las colecciones de:
+  - **Plantas**
+  - **Especies**
+  - **Fertilizantes**
+  
+  Esto permite ofrecer **descripciones personalizadas** e información relevante para cada colección.
 
-- 🌳 **Vista 3D de Plantas:**  
-  Disfruta de una **vista 3D interactiva** de las plantas para una experiencia más visual y enriquecedora.
+#### 🌳 **Vista 3D de Plantas**
+- **Vista 3D interactiva (ThreeJS)** de las plantas, para proporcionar una **experiencia visual y enriquecedora** al usuario.
 
 ---
 
 ### 📱 **Aplicación Móvil (Kotlin)**
 
-- 🔗 **Compartir Información:**  
-  En la versión móvil, puedes **compartir** información de tus plantas, especies y fertilizantes con otras aplicaciones gracias a los **Intents**.
+#### 🔗 **Compartir Información**
+- En la versión móvil, puedes **compartir información** de tus **plantas** y **especies** con otras aplicaciones, gracias a la integración de **Intents**.
 
-- 💾 **Almacenamiento Local:**  
-  La app permite **almacenar localmente** los datos de la aplicación para un acceso rápido, incluso sin conexión a internet.
+#### 💾 **Almacenamiento Local**
+- La aplicación **almacena los datos localmente** utilizando **Room**, lo que garantiza un **acceso rápido y eficiente**, mientras se sincronizan los datos con Firebase.
 
 ---
 
