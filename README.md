@@ -78,7 +78,7 @@ Estas instrucciones aplican tanto a la **aplicación web** como a la **aplicaci�
 ### 🌍 **Aplicación Web (Ionic + Angular)**
 
 #### 📧 **Envío de Correos**
-- Se **envía un correo** de forma automática al usuario en tres situaciones:
+- Se envía un correo de forma automática al usuario en tres situaciones:<br>
   - **Registrarse**
   - **Iniciar sesión**
   - **Intento de inicio de sesión fallido**
