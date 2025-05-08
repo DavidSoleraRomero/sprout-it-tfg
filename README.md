@@ -106,9 +106,9 @@ Estas instrucciones aplican tanto a la **aplicación web** como a la **aplicaci�
 
 ---
 
-## 📹 **Manual Detallado**
+## 📺 **Manual Completo**
 
-Para más detalles, consulta el **manual completo** en los siguientes videos:
+Para más detalles, consulta el **manual completo** en los siguientes videos. En estos videos encontrarás una **explicación detallada** sobre cada apartado de la aplicación, junto con su correspondiente demostración de cómo hacerlo. Se cubren todas las funcionalidades de la versión web y móvil, incluyendo el **registro**, **inicio de sesión**, gestión de **plantas**, **especies**, **fertilizantes**, características exclusivas de cada plataforma, y más detalles concretos.
 
 🎥 **Manual Detallado de la Aplicación Web (Ionic + Angular)**  
 [Ver video](https://youtu.be/VcPFS6k2OSQ)
