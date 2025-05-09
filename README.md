@@ -22,7 +22,7 @@
 | **Simplificar gestión** | Registro intuitivo de plantas y cuidados |
 | **Gamificar experiencia** | Sistema de niveles por riegos realizados |
 | **Multiplataforma** | Acceso desde cualquier dispositivo |
-| **Educación botánica** | Recomendaciones personalizadas |
+| **Educación botánica** | Recomendaciones personalizadas gracias a IA Generativa |
 
 ## 💻 Tecnologías utilizadas
 
