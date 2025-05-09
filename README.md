@@ -58,16 +58,16 @@
 
 ### 1. sprouters
 
-| Campo | Tipo | Descripción |
-| ----- | ---- | ----------- |
-| id | string | ID del documento |
-| email | string | Email del usuario |
-| name | string | Nombre |
-| surnames | string | Apellidos |
-| username | string | Nombre de usuario |
-| isPrivileged | boolean | Privilegios especiales |
-| image | string | Foto de perfil |
-| user | string | ID de Firebase Auth |
+| Campo         | Tipo         | Descripción              |
+| ------------- | ------------ | ------------------------ |
+| `id`          | `string`     | ID del documento         |
+| `email`       | `string`     | Email del usuario        |
+| `name`        | `string`     | Nombre                   |
+| `surnames`    | `string`     | Apellidos                |
+| `username`    | `string`     | Nombre de usuario        |
+| `isPrivileged`| `boolean`    | Privilegios especiales   |
+| `image`       | `string`     | Foto de perfil           |
+| `user`        | `string`     | ID de Firebase Auth      |
 
 ### 2. species
 
