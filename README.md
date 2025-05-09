@@ -28,22 +28,22 @@
 
 ### 📱 Frontend Web
 
-| Tecnología | Uso |
+| `Tecnología` | `Uso` |
 | ---------- | --- |
-| Ionic + Angular | Desarrollo híbrido iOS/Android |
+| `Ionic + Angular` | `Desarrollo híbrido para Web, iOS y Android` |
 
 ### 🤖 Android Nativo
 
-| Tecnología | Uso |
+| `Tecnología` | `Uso` |
 | ---------- | --- |
-| Kotlin | Funcionalidades específicas Android |
+| `Kotlin` | `Funcionalidades específicas Android` |
 
 ### ☁️ Backend
 
-| Tecnología | Uso |
+| `Tecnología` | `Uso` |
 | ---------- | --- |
-| Firebase Firestore | Base de datos en tiempo real |
-| Firebase Auth | Autenticación |
+| `Firebase Firestore` | `Base de datos en tiempo real` |
+| `Firebase Auth` | `Autenticación` |
 
 ## 🛡 Esquema E/R de la base de datos
 
