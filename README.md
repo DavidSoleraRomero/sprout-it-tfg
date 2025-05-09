@@ -4,6 +4,140 @@
 
 ---
 
+## ☘ Descripción
+
+**Sprout It** es una aplicación diseñada para ayudar a los usuarios a gestionar sus plantas de una forma práctica y gamificada. Los usuarios podrán registrar sus plantas, asociarlas a una especie y un fertilizante, y realizar acciones como crear, leer, actualizar y eliminar plantas, especies y fertilizantes. Además, podrán llevar un control de los riegos realizados, sumando experiencia y subiendo de nivel con cada riego, lo que incentiva el cuidado de las plantas. 
+
+**Funcionalidades principales:**
+
+- 📝 Registrar plantas con sus especies y fertilizantes asociados  
+- 💧 Llevar control de riegos con sistema de experiencia  
+- 📊 Visualizar progreso mediante niveles  
+- ☁️ Sincronización en la nube para acceso multiplataforma  
+
+## 🎯 Objetivos del proyecto
+
+| Objetivo | Beneficio |
+| ------- | --------- |
+| **Simplificar gestión** | Registro intuitivo de plantas y cuidados |
+| **Gamificar experiencia** | Sistema de niveles por riegos realizados |
+| **Multiplataforma** | Acceso desde cualquier dispositivo |
+| **Educación botánica** | Recomendaciones personalizadas |
+
+## 💻 Tecnologías utilizadas
+
+### 📱 Frontend Web
+
+| Tecnología | Uso |
+| ---------- | --- |
+| Ionic + Angular | Desarrollo híbrido iOS/Android |
+
+### 🤖 Android Nativo
+
+| Tecnología | Uso |
+| ---------- | --- |
+| Kotlin | Funcionalidades específicas Android |
+
+### ☁️ Backend
+
+| Tecnología | Uso |
+| ---------- | --- |
+| Firebase Firestore | Base de datos en tiempo real |
+| Firebase Auth | Autenticación |
+
+## 🛡 Esquema E/R de la base de datos
+
+### Colecciones principales
+
+1. **sprouters**: Extensión del perfil de usuario  
+2. **species**: Datos de especies de plantas  
+3. **plants**: Plantas registradas por usuarios  
+4. **fertilizers**: Fertilizantes disponibles  
+5. **experiences**: Registro de experiencia y niveles  
+6. **locations**: Ubicaciones geográficas  
+
+### 1. sprouters
+
+| Campo | Tipo | Descripción |
+| ----- | ---- | ----------- |
+| id | string | ID del documento |
+| email | string | Email del usuario |
+| name | string | Nombre |
+| surnames | string | Apellidos |
+| username | string | Nombre de usuario |
+| isPrivileged | boolean | Privilegios especiales |
+| image | string | Foto de perfil |
+| user | string | ID de Firebase Auth |
+
+### 2. species
+
+| Campo | Tipo | Descripción |
+| ----- | ---- | ----------- |
+| id | string | ID del documento |
+| commonName | string | Nombre común |
+| scientificName | string | Nombre científico |
+| environmentType | string | "Interior" o "Exterior" |
+| lightRequirement | string | Requerimiento lumínico |
+| wateringFrequency | number | Días entre riegos |
+| recommendedFertilizer | string | Referencia a fertilizante |
+| recommendedFertilizerId | string | ID de fertilizante |
+| image | string | Imagen de la especie |
+
+### 3. plants
+
+| Campo | Tipo | Descripción |
+| ----- | ---- | ----------- |
+| id | string | ID del documento |
+| name | string | Nombre asignado |
+| specie | string | Referencia a especie |
+| specieId | string | ID de especie |
+| sprouter | string | Referencia a usuario |
+| currentEnvironment | string | Ambiente actual |
+| currentFertilizer | string | Referencia a fertilizante |
+| currentFertilizerId | string | ID de fertilizante |
+| currentLightLevel | string | Nivel de luz |
+| description | string | Descripción |
+| lastWatered | timestamp | Último riego |
+| registerDate | timestamp | Fecha de registro |
+| image | string | Foto de planta |
+
+### 4. fertilizers
+
+| Campo | Tipo | Descripción |
+| ----- | ---- | ----------- |
+| id | string | ID del documento |
+| name | string | Nombre del fertilizante |
+
+### 5. experiences
+
+| Campo | Tipo | Descripción |
+| ----- | ---- | ----------- |
+| id | string | ID del documento |
+| currentSprouterExperience | number | Puntos de experiencia |
+| sprouter | string | Referencia a usuario |
+
+### 6. locations
+
+| Campo | Tipo | Descripción |
+| ----- | ---- | ----------- |
+| id | string | ID del documento |
+| latitude | number | Coordenada latitud |
+| longitude | number | Coordenada longitud |
+
+### 🔗 Relaciones
+
+- `sprouters.user` → `Firebase Auth`  
+- `plants.sprouter` → `sprouters.id`  
+- `plants.specie` → `species.id`  
+- `species.recommendedFertilizer` → `fertilizers.id`  
+- `experiences.sprouter` → `sprouters.id`  
+
+---
+
+> 📎 Todos estos apartados, incluyendo el desarrollo técnico, justificaciones, diseño y planificación, se encuentran explicados con detalle en el [Anteproyecto completo](https://jolly-ferret-4f4.notion.site/Sprout-It-Anteproyecto-67480a4cb7ed4ed6b85b363386838851?pvs=4).
+
+---
+
 ## 🎥 Video Checkpoint (5 minutos)  
 🔗 [Ver en YouTube](https://youtu.be/2HuGz19Bpaw)  
 Resumen del estado actual del proyecto con una demostración práctica. En el video se exponen los principales avances, funcionalidades implementadas y cómo se cumplen los requisitos de prácticamente todas las asignaturas del ciclo.
@@ -13,20 +147,6 @@ Resumen del estado actual del proyecto con una demostración práctica. En el vi
 ## 📚 Historial de cambios y bibliografía  
 📁 [Acceder a Google Drive](https://docs.google.com/document/d/1duXJVxwfllh2DBYBOJwPx-ZhWH_NcNUKUzaMo3aMl0U/edit?usp=sharing)  
 Contiene documentación histórica, bibliografía y enlaces complementarios.
-
----
-
-## 📌 Descripción breve
-
-Sprout It es una aplicación multiplataforma que convierte el seguimiento y cuidado de plantas en una experiencia intuitiva y motivadora. Integra:
-
-- 📲 **Gestión botánica**: permite registrar plantas, especies, fechas de riego, fertilización, etc.
-- 🎮 **Elementos gamificados**: las plantas suben de nivel con el cuidado del usuario.
-- ☁️ **Sincronización en la nube**: disponible en versión móvil (Kotlin) y web (Ionic Angular) con datos unificados mediante Firebase y persistencia local con Room.
-- 🧠 **Procesamiento externo**: generación de CSV desde la app y análisis con Power BI gracias a una API desarrollada en Python.
-- 🧪 **Diseño iterativo**: prototipado inicial en Balsamiq y refinamiento visual y funcional en Figma.
-
-> 🔍 **Toda la documentación técnica y justificación del proyecto está disponible en el [Anteproyecto completo](https://jolly-ferret-4f4.notion.site/Sprout-It-Anteproyecto-67480a4cb7ed4ed6b85b363386838851?pvs=4)**
 
 ---
 
