@@ -56,81 +56,81 @@
 5. **experiences**: Registro de experiencia y niveles  
 6. **locations**: Ubicaciones geográficas  
 
-### 1. sprouters
+### 1. `sprouters`
 
-| Campo         | Tipo         | Descripción              |
-| ------------- | ------------ | ------------------------ |
-| `id`          | `string`     | ID del documento         |
-| `email`       | `string`     | Email del usuario        |
-| `name`        | `string`     | Nombre                   |
-| `surnames`    | `string`     | Apellidos                |
-| `username`    | `string`     | Nombre de usuario        |
-| `isPrivileged`| `boolean`    | Privilegios especiales   |
-| `image`       | `string`     | Foto de perfil           |
-| `user`        | `string`     | ID de Firebase Auth      |
+| `Campo`         | `Tipo`      | `Descripción`              |
+| --------------- | ----------- | -------------------------- |
+| `id`            | `string`    | `ID del documento`         |
+| `email`         | `string`    | `Email del usuario`        |
+| `name`          | `string`    | `Nombre`                   |
+| `surnames`      | `string`    | `Apellidos`                |
+| `username`      | `string`    | `Nombre de usuario`        |
+| `isPrivileged`  | `boolean`   | `Privilegios especiales`   |
+| `image`         | `string`    | `Foto de perfil`           |
+| `user`          | `string`    | `ID de Firebase Auth`      |
 
-### 2. species
+### 2. `species`
 
-| Campo | Tipo | Descripción |
-| ----- | ---- | ----------- |
-| id | string | ID del documento |
-| commonName | string | Nombre común |
-| scientificName | string | Nombre científico |
-| environmentType | string | "Interior" o "Exterior" |
-| lightRequirement | string | Requerimiento lumínico |
-| wateringFrequency | number | Días entre riegos |
-| recommendedFertilizer | string | Referencia a fertilizante |
-| recommendedFertilizerId | string | ID de fertilizante |
-| image | string | Imagen de la especie |
+| `Campo`                    | `Tipo`      | `Descripción`                  |
+| -------------------------- | ----------- | ------------------------------ |
+| `id`                       | `string`    | `ID del documento`             |
+| `commonName`               | `string`    | `Nombre común`                 |
+| `scientificName`           | `string`    | `Nombre científico`            |
+| `environmentType`          | `string`    | `"Interior"` o `"Exterior"`    |
+| `lightRequirement`         | `string`    | `Requerimiento lumínico`       |
+| `wateringFrequency`        | `number`    | `Días entre riegos`            |
+| `recommendedFertilizer`    | `string`    | `Referencia a fertilizante`    |
+| `recommendedFertilizerId`  | `string`    | `ID de fertilizante`           |
+| `image`                    | `string`    | `Imagen de la especie`         |
 
-### 3. plants
+### 3. `plants`
 
-| Campo | Tipo | Descripción |
-| ----- | ---- | ----------- |
-| id | string | ID del documento |
-| name | string | Nombre asignado |
-| specie | string | Referencia a especie |
-| specieId | string | ID de especie |
-| sprouter | string | Referencia a usuario |
-| currentEnvironment | string | Ambiente actual |
-| currentFertilizer | string | Referencia a fertilizante |
-| currentFertilizerId | string | ID de fertilizante |
-| currentLightLevel | string | Nivel de luz |
-| description | string | Descripción |
-| lastWatered | timestamp | Último riego |
-| registerDate | timestamp | Fecha de registro |
-| image | string | Foto de planta |
+| `Campo`              | `Tipo`      | `Descripción`                  |
+| -------------------- | ----------- | ------------------------------ |
+| `id`                 | `string`    | `ID del documento`             |
+| `name`               | `string`    | `Nombre asignado`              |
+| `specie`             | `string`    | `Referencia a especie`         |
+| `specieId`           | `string`    | `ID de especie`                |
+| `sprouter`           | `string`    | `Referencia a usuario`         |
+| `currentEnvironment` | `string`    | `Ambiente actual`              |
+| `currentFertilizer`  | `string`    | `Referencia a fertilizante`    |
+| `currentFertilizerId`| `string`    | `ID de fertilizante`           |
+| `currentLightLevel`  | `string`    | `Nivel de luz`                 |
+| `description`        | `string`    | `Descripción`                  |
+| `lastWatered`        | `timestamp` | `Último riego`                 |
+| `registerDate`       | `timestamp` | `Fecha de registro`            |
+| `image`              | `string`    | `Foto de planta`               |
 
-### 4. fertilizers
+### 4. `fertilizers`
 
-| Campo | Tipo | Descripción |
-| ----- | ---- | ----------- |
-| id | string | ID del documento |
-| name | string | Nombre del fertilizante |
+| `Campo` | `Tipo`    | `Descripción`           |
+| ------- | --------- | ----------------------- |
+| `id`    | `string`  | `ID del documento`      |
+| `name`  | `string`  | `Nombre del fertilizante` |
 
-### 5. experiences
+### 5. `experiences`
 
-| Campo | Tipo | Descripción |
-| ----- | ---- | ----------- |
-| id | string | ID del documento |
-| currentSprouterExperience | number | Puntos de experiencia |
-| sprouter | string | Referencia a usuario |
+| `Campo`                     | `Tipo`    | `Descripción`               |
+| --------------------------- | --------- | --------------------------- |
+| `id`                        | `string`  | `ID del documento`          |
+| `currentSprouterExperience` | `number`  | `Puntos de experiencia`     |
+| `sprouter`                  | `string`  | `Referencia a usuario`      |
 
-### 6. locations
+### 6. `locations`
 
-| Campo | Tipo | Descripción |
-| ----- | ---- | ----------- |
-| id | string | ID del documento |
-| latitude | number | Coordenada latitud |
-| longitude | number | Coordenada longitud |
+| `Campo`    | `Tipo`    | `Descripción`             |
+| ---------- | --------- | ------------------------- |
+| `id`       | `string`  | `ID del documento`        |
+| `latitude` | `number`  | `Coordenada latitud`      |
+| `longitude`| `number`  | `Coordenada longitud`     |
 
 ### 🔗 Relaciones
 
-- `sprouters.user` → `Firebase Auth`  
-- `plants.sprouter` → `sprouters.id`  
-- `plants.specie` → `species.id`  
-- `species.recommendedFertilizer` → `fertilizers.id`  
-- `experiences.sprouter` → `sprouters.id`  
+- `sprouters.user` → `Firebase Auth`  
+- `plants.sprouter` → `sprouters.id`  
+- `plants.specie` → `species.id`  
+- `species.recommendedFertilizer` → `fertilizers.id`  
+- `experiences.sprouter` → `sprouters.id`
 
 ---
 
