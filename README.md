@@ -165,7 +165,10 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
 
 ---
 
-### 📱 **Aplicación Móvil**
+### 📱 **Aplicación Móvil Android**
+
+- 🔗 **APK para Android**  
+  [Descargar en Google Drive](https://drive.google.com/file/d/1bBFZeGKTl9gY_Pl5oNLinjFYYYNMoDv7/view?usp=sharing)
 
 - 📱 **Repositorio (Kotlin)**  
   [https://github.com/DavidSoleraRomero/sprout-it-android](https://github.com/DavidSoleraRomero/sprout-it-android)
