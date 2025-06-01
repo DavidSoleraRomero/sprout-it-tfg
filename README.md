@@ -283,7 +283,7 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 
 - 📥 **Power BI + CSV (descarga desde Drive)**  
   Incluye el archivo `.pbix` y los CSV exportados desde la app.  
-  [Descargar en Google Drive](https://drive.google.com/file/d/1MRItQrWM2B0W5DgkuhnRBqVsNCiYA8pu/view?usp=sharing)
+  [Descargar en Google Drive](https://drive.google.com/file/d/1MRItQrWM2B0W5DgkuhnRBqVsNCiYA8pu/view?usp=sharing)<br>
   > ⚠️ **IMPORTANTE:**  
   > El informe fue desarrollado **en la misma versión de Power BI Desktop: 2.141.1253.0 (64-bit, marzo de 2025)**.  
   > Se recomienda usar esta versión o una superior; de lo contrario, **el archivo no se podrá abrir correctamente**.
