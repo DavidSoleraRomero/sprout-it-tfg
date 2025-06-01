@@ -267,6 +267,7 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 
 - 🖼️ **Prototipo en Balsamiq (solo visualización)**  
   *Requiere de invitación al proyecto. Es preferible descargar el archivo .bmpr e importarlo directamente en Balsamiq.*
+  
 
 - 📁 **Archivos descargables de Balsamiq (Google Drive)**  
   [Descargar en Google Drive](https://drive.google.com/drive/folders/1jSSBkc7fMor_PphYmIKCauJaa-1RBIKC?usp=sharing)
@@ -277,6 +278,8 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 - 🛠️ **Diseño en Figma (modo edición)**  
   [https://www.figma.com/design/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/design/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)
 
+> 📽️ En la presentación se incluyen evidencias gráficas que muestran el diseño y prototipado tanto en Balsamiq como en Figma.
+
 ---
 
 ### 📊 Análisis de datos
@@ -284,6 +287,9 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 - 📥 **Power BI + CSV (descarga desde Drive)**  
   Incluye el archivo `.pbix` y los CSV exportados desde la app.  
   [Descargar en Google Drive](https://drive.google.com/file/d/1MRItQrWM2B0W5DgkuhnRBqVsNCiYA8pu/view?usp=sharing)  
+
+- 📽️ **Evidencias gráficas**  
+  En la presentación se incluye una captura que muestra la implementación y análisis realizados con Power BI.
   
 > ⚠️ **IMPORTANTE:**  
 > El informe fue desarrollado **en la siguiente versión de Power BI Desktop: 2.141.1253.0 (64-bit, marzo de 2025)**.  
