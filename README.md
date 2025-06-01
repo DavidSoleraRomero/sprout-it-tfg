@@ -175,6 +175,17 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
 
 ---
 
+### 🖥️ **Presentación del Proyecto**
+
+- 📄 **PDF de la presentación (subido al repositorio)**  
+  Disponible en el repositorio del proyecto (más arriba, junto al archivo README.md)
+
+- 🎥 **Versión recomendada con vídeos y transiciones**  
+  [Ver presentación en Canva](https://www.canva.com/design/DAGn_7DdH4k/R68UuyiAgjFl7b34ewgMfg/view?utm_content=DAGn_7DdH4k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08411931e1)  
+  *Contiene todos los vídeos y animaciones que enriquecen la experiencia.*
+
+---
+
 ## 📝 **Instrucciones Generales**
 
 Estas instrucciones aplican tanto a la **aplicación web** como a la **aplicación móvil**. En los videos a continuación se mencionan detalles específicos para cada plataforma:
