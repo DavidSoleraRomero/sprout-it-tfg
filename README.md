@@ -181,8 +181,8 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
   Disponible en el repositorio del proyecto (más arriba, junto al archivo README.md)
 
 - 🎥 **Versión recomendada con vídeos y transiciones**  
-  [Ver presentación en Canva (Opción 1)](https://www.canva.com/design/DAGn_7DdH4k/lT1p3St_KWpDTpDEwY4j0g/edit?utm_content=DAGn_7DdH4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  [Ver presentación en Canva (Opción 2)](https://www.canva.com/design/DAGn_7DdH4k/R68UuyiAgjFl7b34ewgMfg/view?utm_content=DAGn_7DdH4k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08411931e1) 
+  [Ver presentación en Canva (Opción 1)](https://www.canva.com/design/DAGn_7DdH4k/lT1p3St_KWpDTpDEwY4j0g/edit?utm_content=DAGn_7DdH4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
+  [Ver presentación en Canva (Opción 2)](https://www.canva.com/design/DAGn_7DdH4k/R68UuyiAgjFl7b34ewgMfg/view?utm_content=DAGn_7DdH4k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08411931e1) <br>
   *Contiene todos los vídeos y animaciones que enriquecen la experiencia.*
 
 ---
