@@ -283,7 +283,7 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 
 - 📥 **Power BI + CSV (descarga desde Drive)**  
   Incluye el archivo `.pbix` y los CSV exportados desde la app.  
-  [Descargar en Google Drive](https://drive.google.com/drive/folders/1w1TMiW7mnVTPoKTLfa7gTduPXaQuMGwQ?usp=sharing)
+  [Descargar en Google Drive](https://drive.google.com/file/d/1MRItQrWM2B0W5DgkuhnRBqVsNCiYA8pu/view?usp=sharing)
 
 ---
 
