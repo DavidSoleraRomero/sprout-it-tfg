@@ -181,7 +181,8 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
   Disponible en el repositorio del proyecto (más arriba, junto al archivo README.md)
 
 - 🎥 **Versión recomendada con vídeos y transiciones**  
-  [Ver presentación en Canva](https://www.canva.com/design/DAGn_7DdH4k/R68UuyiAgjFl7b34ewgMfg/view?utm_content=DAGn_7DdH4k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08411931e1)  
+  [Ver presentación en Canva (Opción 1)](https://www.canva.com/design/DAGn_7DdH4k/lT1p3St_KWpDTpDEwY4j0g/edit?utm_content=DAGn_7DdH4k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Ver presentación en Canva (Opción 2)](https://www.canva.com/design/DAGn_7DdH4k/R68UuyiAgjFl7b34ewgMfg/view?utm_content=DAGn_7DdH4k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08411931e1) 
   *Contiene todos los vídeos y animaciones que enriquecen la experiencia.*
 
 ---
@@ -265,10 +266,10 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 ### 🎨 Diseño de la interfaz
 
 - 🖼️ **Prototipo en Balsamiq (solo visualización)**  
-  [https://balsamiq.com/example/sprout-it](https://balsamiq.com/example/sprout-it)
+  *Requiere de invitación al proyecto. Es preferible descargar el archivo .bmpr e importarlo directamente en Balsamiq.*
 
 - 📁 **Archivos descargables de Balsamiq (Google Drive)**  
-  *(Pendiente de añadir enlace)*
+  [Descargar en Google Drive](https://drive.google.com/drive/folders/1jSSBkc7fMor_PphYmIKCauJaa-1RBIKC?usp=sharing)
 
 - 🎯 **Diseño en Figma (modo solo visualización)**  
   [https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)
@@ -282,7 +283,7 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 
 - 📥 **Power BI + CSV (descarga desde Drive)**  
   Incluye el archivo `.pbix` y los CSV exportados desde la app.  
-  *(Pendiente de añadir enlace)*
+  [Descargar en Google Drive](https://drive.google.com/drive/folders/1w1TMiW7mnVTPoKTLfa7gTduPXaQuMGwQ?usp=sharing)
 
 ---
 
