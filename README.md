@@ -11,7 +11,7 @@
 **Funcionalidades principales:**
 
 - 📝 Registrar plantas con sus especies y fertilizantes asociados  
-- 💧 Llevar control de riegos con sistema de experiencia  
+- 💧  Llevar control de riegos con sistema de experiencia  
 - 📊 Visualizar progreso mediante niveles  
 - ☁️ Sincronización en la nube para acceso multiplataforma  
 
