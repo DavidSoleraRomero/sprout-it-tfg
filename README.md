@@ -30,7 +30,7 @@
 
 | `Tecnología` | `Uso` |
 | ---------- | --- |
-| `Ionic + Angular` | `Desarrollo híbrido para Web, iOS y Android` |
+| `Ionic + Angular + Capacitor` | `Desarrollo híbrido para Web, iOS y Android` |
 
 ### 🤖 Android Nativo
 
@@ -154,7 +154,7 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
 
 ### 🌍 **Aplicación Web**
 
-- 🔗 **Aplicación desplegada en Netlify (redirige a HOME)**  
+- 🔗 **Aplicación desplegada en Netlify (redirige a landing page)**  
   [https://sprout-it.netlify.app](https://sprout-it.netlify.app/)
 
 - 🔗 **APK para Android de la aplicación web**  
