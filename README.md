@@ -144,7 +144,7 @@ Resumen del estado actual del proyecto con una demostración práctica. En el vi
 
 ## 🎥 Presentación TFG (8:52 minutos)  
 🔗 [Ver en YouTube](https://youtu.be/IjJIv0VX0_Q)  
-Vídeo final del TFG donde se presenta brevemente *Sprout It*, su funcionamiento y los objetivos del proyecto. Incluye una introducción clara, muestra visual de la app y cómo responde a la propuesta del trabajo.
+Vídeo final del TFG donde se explica de qué trata *Sprout It* y se abarca todo su funcionamiento. Incluye una introducción clara y una demostración completa de la app, destacando sus principales utilidades y características.
 
 > ℹ️ Este vídeo contiene lo que se diría en la exposición del TFG. Sin embargo, la defensa del proyecto se realizará en persona, utilizando la presentación en PDF incluida en este repositorio y los enlaces a Canva, donde se encuentra la versión animada y visualmente mejorada.
 
