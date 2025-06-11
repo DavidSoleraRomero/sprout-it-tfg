@@ -267,6 +267,9 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 - 🐍 **API en Python para generar CSV a partir de datos de Firebase**  
   [https://github.com/DavidSoleraRomero/sprout-it-pd](https://github.com/DavidSoleraRomero/sprout-it-pd)
 
+> ⚠️ **IMPORTANTE:**  
+> Render desactiva la API tras 15 minutos de inactividad y puede tardar 1-2 minutos en reactivarse cuando se solicita de nuevo. A partir de ahí, estará levantada y responderá al instante.
+
 ---
 
 ### 🎨 Diseño de la interfaz
