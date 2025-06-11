@@ -164,7 +164,7 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
   [https://sprout-it.netlify.app](https://sprout-it.netlify.app/)
 
 - 🔗 **APK para Android de la aplicación web**  
-  [Descargar en Google Drive](https://drive.google.com/file/d/1hkasUWkCA3Lv-6VoPXRQhch157X3kg1s/view?usp=sharing)
+  [Descargar en Google Drive](https://drive.google.com/file/d/1Z0HV5_0lxEzCFZj9XGA7OFUhR6sSWaqm/view?usp=sharing)
 
 - 💻 **Repositorio (Ionic + Angular)**  
   [https://github.com/DavidSoleraRomero/sprout-it](https://github.com/DavidSoleraRomero/sprout-it)
