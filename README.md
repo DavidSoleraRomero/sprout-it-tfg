@@ -193,6 +193,50 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
 
 ---
 
+### 🧠 Procesamiento de datos
+
+- 🐍 **API en Python para generar CSV a partir de datos de Firebase**  
+  [https://github.com/DavidSoleraRomero/sprout-it-pd](https://github.com/DavidSoleraRomero/sprout-it-pd)
+
+> ⚠️ **IMPORTANTE:**  
+> Render desactiva la API tras 15 minutos de inactividad y puede tardar 1-2 minutos en reactivarse cuando se solicita de nuevo. A partir de ahí, estará levantada y responderá al instante.
+
+---
+
+### 🎨 Diseños de la interfaz
+
+- 🖼️ **Prototipo en Balsamiq (solo visualización)**  
+  *Requiere de invitación al proyecto. Es preferible descargar el archivo .bmpr e importarlo directamente en Balsamiq.*
+  
+
+- 📁 **Archivos descargables de Balsamiq (Google Drive)**  
+  [Descargar en Google Drive](https://drive.google.com/drive/folders/1jSSBkc7fMor_PphYmIKCauJaa-1RBIKC?usp=sharing)
+
+- 🎯 **Diseño en Figma (modo solo visualización)**  
+  [https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)
+
+- 🛠️ **Diseño en Figma (modo edición)**  
+  [https://www.figma.com/design/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/design/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)
+
+> 📽️ En la presentación se incluyen evidencias gráficas que muestran el diseño y prototipado tanto en Balsamiq como en Figma.
+
+---
+
+### 📊 Análisis de datos
+
+- 📥 **Power BI + CSV (descarga desde Drive)**  
+  Incluye el archivo `.pbix` y los CSV exportados desde la app.  
+  [Descargar en Google Drive](https://drive.google.com/file/d/1MRItQrWM2B0W5DgkuhnRBqVsNCiYA8pu/view?usp=sharing)  
+
+- 📽️ **Evidencias gráficas**  
+  En la presentación se incluye una captura que muestra la implementación y análisis realizados con Power BI.
+  
+> ⚠️ **IMPORTANTE:**  
+> El informe fue desarrollado **en la siguiente versión de Power BI Desktop: 2.141.1253.0 (64-bit, marzo de 2025)**.  
+> Se recomienda usar esta versión o una superior; de lo contrario, **el archivo no se podrá abrir correctamente**.
+
+---
+
 ## 📝 **Instrucciones Generales**
 
 Estas instrucciones aplican tanto a la **aplicación web** como a la **aplicación móvil**. En los videos a continuación se mencionan detalles específicos para cada plataforma:
@@ -259,50 +303,6 @@ Para más detalles, consulta el **manual completo** en los siguientes videos. En
 
 🎥 **Manual Detallado de la Aplicación Móvil (Kotlin)**  
 [Ver video](https://youtu.be/GoUTTPHh7dQ)
-
----
-
-### 🧠 Procesamiento de datos
-
-- 🐍 **API en Python para generar CSV a partir de datos de Firebase**  
-  [https://github.com/DavidSoleraRomero/sprout-it-pd](https://github.com/DavidSoleraRomero/sprout-it-pd)
-
-> ⚠️ **IMPORTANTE:**  
-> Render desactiva la API tras 15 minutos de inactividad y puede tardar 1-2 minutos en reactivarse cuando se solicita de nuevo. A partir de ahí, estará levantada y responderá al instante.
-
----
-
-### 🎨 Diseño de la interfaz
-
-- 🖼️ **Prototipo en Balsamiq (solo visualización)**  
-  *Requiere de invitación al proyecto. Es preferible descargar el archivo .bmpr e importarlo directamente en Balsamiq.*
-  
-
-- 📁 **Archivos descargables de Balsamiq (Google Drive)**  
-  [Descargar en Google Drive](https://drive.google.com/drive/folders/1jSSBkc7fMor_PphYmIKCauJaa-1RBIKC?usp=sharing)
-
-- 🎯 **Diseño en Figma (modo solo visualización)**  
-  [https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/proto/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)
-
-- 🛠️ **Diseño en Figma (modo edición)**  
-  [https://www.figma.com/design/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1](https://www.figma.com/design/qh59vF4jQMkRUArRqOMtrO/Sprout-It-Design?node-id=0-1&t=ETZ2eLpcvyPmhzej-1)
-
-> 📽️ En la presentación se incluyen evidencias gráficas que muestran el diseño y prototipado tanto en Balsamiq como en Figma.
-
----
-
-### 📊 Análisis de datos
-
-- 📥 **Power BI + CSV (descarga desde Drive)**  
-  Incluye el archivo `.pbix` y los CSV exportados desde la app.  
-  [Descargar en Google Drive](https://drive.google.com/file/d/1MRItQrWM2B0W5DgkuhnRBqVsNCiYA8pu/view?usp=sharing)  
-
-- 📽️ **Evidencias gráficas**  
-  En la presentación se incluye una captura que muestra la implementación y análisis realizados con Power BI.
-  
-> ⚠️ **IMPORTANTE:**  
-> El informe fue desarrollado **en la siguiente versión de Power BI Desktop: 2.141.1253.0 (64-bit, marzo de 2025)**.  
-> Se recomienda usar esta versión o una superior; de lo contrario, **el archivo no se podrá abrir correctamente**.
 
 ---
 
