@@ -1,6 +1,7 @@
-# 🌱 Sprout It - TFG DAM
+# 🌱 Sprout It
 
-**Gestión gamificada de plantas** | *Proyecto fin de grado - CPIFP Alan Turing*
+**Gestión gamificada de plantas**  
+*Proyecto Fin de Grado - CPIFP Alan Turing*
 
 ---
 
