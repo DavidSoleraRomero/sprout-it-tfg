@@ -210,8 +210,8 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
 ```npx compodoc -p tsconfig.app.json -s```
 
 - **Kotlin**  
-```./gradlew dokkaHtml  ```
-Luego utilizar ```start app/build/dokka/index.html```
+```./gradlew dokkaHtml```
+y luego utilizar ```start app/build/dokka/index.html```
 
 ---
 
