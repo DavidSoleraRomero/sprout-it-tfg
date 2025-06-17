@@ -204,6 +204,17 @@ Contiene documentación histórica, bibliografía y enlaces complementarios.
 
 ---
 
+### 📋 Documentación automática para Desarrollo de Interfaces
+
+- **Ionic / Angular**  
+```npx compodoc -p tsconfig.app.json -s```
+
+- **Kotlin**  
+```./gradlew dokkaHtml  ```
+Luego utilizar ```start app/build/dokka/index.html```
+
+---
+
 ### 🎨 Diseños de la interfaz
 
 - 🖼️ **Prototipo en Balsamiq (solo visualización)**  
